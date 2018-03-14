@@ -9,7 +9,7 @@ nodejs v6
 根据操作系统选择对应的安装包
 - 参考文档：https://nodejs.org/docs/latest-v6.x/api/index.html
 
-npm - 包管理工具，安装好nodejs后就有npm,了解怎么安装包即可,不影响开发
+npm - 包管理工具，安装好nodejs后就有npm
 - 官网：https://www.npmjs.com/
 - 参考文档：https://docs.npmjs.com/
 
