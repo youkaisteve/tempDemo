@@ -1,6 +1,6 @@
 # Outline
 
-该文件请用markdown支持markdown的编辑器打开
+该文件请用markdown支持markdown的编辑器打开
 
 ## 开发所需环境及组件说明
 nodejs v6
