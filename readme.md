@@ -37,7 +37,7 @@ npm --version
 
 首先打开命令行，定位到项目所在目录（随意创建一个），当前例子中创建了一个名demo的文件夹
 
-**使用npm init 初始化package.json文件**
+输入以下命令：
 ```bash
 npm init
 
